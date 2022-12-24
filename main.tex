@@ -1,0 +1,99 @@
+% !TeX document-id = {d1edf156-e198-4bbd-8563-6feaf995f6d5}
+% !TeX TXS-program:bibliography = txs:///biber
+ % !TeX program = xelatex
+
+ 
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%     Language Science Press Master File       %%%
+%%%         follow the instructions below        %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Everything following a % is ignored
+% Some lines start with %. Remove the % to include them
+
+\documentclass[output=book,
+  colorlinks,citecolor=brown,
+%  draft,
+draftmode,
+%  showindex,
+%  nobabel,
+%  booklanguage=german,
+%  multiauthors,
+		  ]{langscibook}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%          additional packages                 %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\include{localmetadata.tex}
+\include{localpackages.tex}
+\include{localhyphenation.tex}
+\addbibresource{../../../cleanedBib.bib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%             Frontmatter                      %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\include{localcommands.tex}
+
+\maketitle
+\frontmatter
+
+% \currentpdfbookmark{Contents}{name} % adds a PDF bookmark
+{\sloppy\tableofcontents}
+  \include{chapters/preface}
+  \include{chapters/acknowledgments}
+  \include{chapters/abbreviations}
+\mainmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%             Chapters                         %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\include{chapters/01}
+
+TODO
+
+\begin{itemize}
+	\item ctrl-f to find th, lv, neg, inf, def to make sure got the right tags
+	\item make sure suppletive roots get aor tag
+\end{itemize}
+
+
+
+\include{chapters/intro}
+%\include{chapters/introNotes}
+\part{Phonology and orthography}
+
+\include{chapters/ortho}
+\include{chapters/phonoSegmental}
+\include{chapters/phonoSyllable}
+%\include{chapters/phonoSyllableNotes}
+\include{chapters/phonoSupraSegStress}
+\include{chapters/phonoIntonation}
+\part{Morphophonology}
+%\include{chapters/morphophonoReduction}
+%\include{chapters/morphophonoSchwa}
+%\include{chapters/morphophonoOther}
+%\include{chapters/morphophonoAllomorphy}
+%input{chapters/morphophonoStrata}
+
+%\include{chapters/outline}
+%\include{chapters/01}  %add a percentage sign in front of the line to exclude this chapter from book
+
+% copy the lines above and adapt as necessary
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%             Backmatter                       %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \include{localseealso.tex}
+% % There is normally no need to change the backmatter section
+\include{backmatter.tex}
+\end{document}
+
+% you can create your book by running
+% xelatex main.tex

@@ -1,0 +1,31 @@
+\newcommand*{\orcid}{}
+\newfontfamily\hy 
+[Scale=MatchLowercase,
+BoldFont = Mardoto-Bold.ttf,
+SlantedFont = Mardoto-Italic.ttf,
+BoldSlantedFont = Mardoto-BoldItalic.ttf
+]{Mardoto-Regular.ttf}
+
+
+\newcommand{\armenian}[1]{{\hy #1}}
+\newcommand{\zzzzzzzz}[1]{{\hy #1}}
+\newcommand{\ipatext}[1]{{ #1}}
+
+\newcommand{\todo}[1]{\textcolor{red}{TODO: #1}}
+
+\theoremstyle{definition}
+\newtheorem{ruleblock}{Rule} 
+\newtheorem{representation}{Representation} 
+\newtheorem{derivation}{Derivation} 
+
+
+\newfontfamily\arabicfont[Script=Arabic,ItalicFont=*,Scale=1.4]{ScheherazadeRegOT_Jazm.ttf}
+\newcommand{\textarab}[1]{{\RL{\arabicfont #1}}}
+
+%to get arabic
+%\def\setArabic{\pagedir TRT \bodydir TRT \pardir TRT \textdir TRT}
+%\def\setLatin {\pagedir TLT \bodydir TLT \pardir TLT \textdir TLT}
+
+%\newfontfamily\arabicfont{DejaVu Sans}[Script=Arabic]
+%\newcommand{\arabiccheat}[1]{{\arabicfont \setArabic      \footnotesize #1}}
+

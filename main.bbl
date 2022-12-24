@@ -1,0 +1,2598 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Adjarian-1899-ArmenianExplosives}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0144b24f991fe134cef519a147e9e56b}{%
+           family={Adjarian},
+           familyi={A\bibinitperiod},
+           given={Hratchia},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{0144b24f991fe134cef519a147e9e56b}
+      \strng{fullhash}{0144b24f991fe134cef519a147e9e56b}
+      \strng{bibnamehash}{0144b24f991fe134cef519a147e9e56b}
+      \strng{authorbibnamehash}{0144b24f991fe134cef519a147e9e56b}
+      \strng{authornamehash}{0144b24f991fe134cef519a147e9e56b}
+      \strng{authorfullhash}{0144b24f991fe134cef519a147e9e56b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La {{Parole}} Ou {{Revue}} Internationale de {{Rhinologie}}, {{Otologie}}, {{Laryngologie}} et {{Phonétique}} Expérimentale}
+      \field{title}{Les Explosives de l'ancien Arménien Étudiées Dans Les Dialectes Modernes}
+      \field{year}{1899}
+      \field{pages}{119\bibrangedash 127}
+      \range{pages}{9}
+    \endentry
+    \entry{anderson-2005-aspectsTheoryClitic}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0de012c381e1a4deac21f0f4d92f18fb}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{0de012c381e1a4deac21f0f4d92f18fb}
+      \strng{fullhash}{0de012c381e1a4deac21f0f4d92f18fb}
+      \strng{bibnamehash}{0de012c381e1a4deac21f0f4d92f18fb}
+      \strng{authorbibnamehash}{0de012c381e1a4deac21f0f4d92f18fb}
+      \strng{authornamehash}{0de012c381e1a4deac21f0f4d92f18fb}
+      \strng{authorfullhash}{0de012c381e1a4deac21f0f4d92f18fb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-19-927990-6}
+      \field{month}{9}
+      \field{title}{Aspects of the Theory of Clitics}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780199279906.001.0001
+      \endverb
+    \endentry
+    \entry{AthanasopoulouVogelMe-2017-AcousticPropertiesCanonicalNonCanonical}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=ec143b4854ba55fe42ecf8d0c99023de}{%
+           family={Athanasopoulou},
+           familyi={A\bibinitperiod},
+           given={Angeliki},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef14d3eaaf864f76ec04753fac756199}{%
+           family={Vogel},
+           familyi={V\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+        {{hash=46980961df5df19cd7a24c8c391bca76}{%
+           family={Dolatian},
+           familyi={D\bibinitperiod},
+           given={Hossep},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ISCA}%
+      }
+      \strng{namehash}{77abb59b59ea4cb0ab7df941ccf578e5}
+      \strng{fullhash}{e5716c8b160b157746d83cb874c1ff5d}
+      \strng{bibnamehash}{e5716c8b160b157746d83cb874c1ff5d}
+      \strng{authorbibnamehash}{e5716c8b160b157746d83cb874c1ff5d}
+      \strng{authornamehash}{77abb59b59ea4cb0ab7df941ccf578e5}
+      \strng{authorfullhash}{e5716c8b160b157746d83cb874c1ff5d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Interspeech 2017}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Acoustic Properties of Canonical and Non-Canonical Stress in {{French}}, {{Turkish}}, {{Armenian}} and {{Brazilian Portuguese}}}
+      \field{year}{2017}
+      \field{pages}{1398\bibrangedash 1402}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.21437/Interspeech.2017-1514
+      \endverb
+    \endentry
+    \entry{BarkaïHorvath-1978-VoicingAssimilationSonorityHierarchyEvidenceRussianHebrewHungarian}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a39a5fb7e827e8793c1bdb3081677242}{%
+           family={Barkaï},
+           familyi={B\bibinitperiod},
+           given={Malachi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bd5b1c6076168d771774e463c4f957c0}{%
+           family={Horvath},
+           familyi={H\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{108c8d7a4007c954ece3fcd66351bdf0}
+      \strng{fullhash}{108c8d7a4007c954ece3fcd66351bdf0}
+      \strng{bibnamehash}{108c8d7a4007c954ece3fcd66351bdf0}
+      \strng{authorbibnamehash}{108c8d7a4007c954ece3fcd66351bdf0}
+      \strng{authornamehash}{108c8d7a4007c954ece3fcd66351bdf0}
+      \strng{authorfullhash}{108c8d7a4007c954ece3fcd66351bdf0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0024-3949, 1613-396X}
+      \field{journaltitle}{Linguistics}
+      \field{number}{212}
+      \field{shorttitle}{Voicing Assimilation and the Sonority Hierarchy}
+      \field{title}{Voicing Assimilation and the Sonority Hierarchy: {{Evidence}} from {{Russian}}, {{Hebrew}} and {{Hungarian}}}
+      \field{volume}{16}
+      \field{year}{1978}
+      \field{pages}{77\bibrangedash 88}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1515/ling.1978.16.212.77
+      \endverb
+    \endentry
+    \entry{BeckerVeinsLevine-2012-AsymmetriesInitialSyllableGeneralization}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9ef25a85530adf6d9983d8fa54b854a8}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3ed8c16e3e66a3ba1a1db7acb1ce0cc8}{%
+           family={Nevins},
+           familyi={N\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8ee69d112ff59449ef8475fe12d004fa}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{905e6fb454649ee9407c95b97d1485a7}
+      \strng{fullhash}{3fd016e467c4b2595fa2e8fc7b3f1b7f}
+      \strng{bibnamehash}{3fd016e467c4b2595fa2e8fc7b3f1b7f}
+      \strng{authorbibnamehash}{3fd016e467c4b2595fa2e8fc7b3f1b7f}
+      \strng{authornamehash}{905e6fb454649ee9407c95b97d1485a7}
+      \strng{authorfullhash}{3fd016e467c4b2595fa2e8fc7b3f1b7f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1535-0665}
+      \field{journaltitle}{Language}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Asymmetries in Generalizing Alternations to and from Initial Syllables}
+      \field{volume}{88}
+      \field{year}{2012}
+      \field{pages}{231\bibrangedash 268}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1353/lan.2012.0049
+      \endverb
+    \endentry
+    \entry{Beckman-1997-PositionalFaithfulness}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ad66709086be889a204b07de48938cd3}{%
+           family={Beckman},
+           familyi={B\bibinitperiod},
+           given={Jill\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad66709086be889a204b07de48938cd3}
+      \strng{fullhash}{ad66709086be889a204b07de48938cd3}
+      \strng{bibnamehash}{ad66709086be889a204b07de48938cd3}
+      \strng{authorbibnamehash}{ad66709086be889a204b07de48938cd3}
+      \strng{authornamehash}{ad66709086be889a204b07de48938cd3}
+      \strng{authorfullhash}{ad66709086be889a204b07de48938cd3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09526757}
+      \field{journaltitle}{Phonology}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{Positional Faithfulness, Positional Neutralisation and {{Shona}} Vowel Harmony}
+      \field{volume}{14}
+      \field{year}{1997}
+      \field{pages}{1\bibrangedash 46}
+      \range{pages}{46}
+      \verb{doi}
+      \verb 10.1017/S0952675797003308
+      \endverb
+    \endentry
+    \entry{Begus-2019-PostNasalDevoicingBlurringProcess}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0d96abe41d911f36c02f558a8cb4da10}{%
+           family={Beguš},
+           familyi={B\bibinitperiod},
+           given={Gašper},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d96abe41d911f36c02f558a8cb4da10}
+      \strng{fullhash}{0d96abe41d911f36c02f558a8cb4da10}
+      \strng{bibnamehash}{0d96abe41d911f36c02f558a8cb4da10}
+      \strng{authorbibnamehash}{0d96abe41d911f36c02f558a8cb4da10}
+      \strng{authornamehash}{0d96abe41d911f36c02f558a8cb4da10}
+      \strng{authorfullhash}{0d96abe41d911f36c02f558a8cb4da10}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-2267, 1469-7742}
+      \field{journaltitle}{Journal of Linguistics}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{Post-Nasal Devoicing and the Blurring Process}
+      \field{volume}{55}
+      \field{year}{2019}
+      \field{pages}{689\bibrangedash 753}
+      \range{pages}{65}
+      \verb{doi}
+      \verb 10.1017/S002222671800049X
+      \endverb
+    \endentry
+    \entry{Booij-1996-CliticizationProsodicIntegrationDutch}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8dbba0f49bbf9f3cd05efb0384352079}{%
+           family={Booij},
+           familyi={B\bibinitperiod},
+           given={Geert},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8dbba0f49bbf9f3cd05efb0384352079}
+      \strng{fullhash}{8dbba0f49bbf9f3cd05efb0384352079}
+      \strng{bibnamehash}{8dbba0f49bbf9f3cd05efb0384352079}
+      \strng{authorbibnamehash}{8dbba0f49bbf9f3cd05efb0384352079}
+      \strng{authornamehash}{8dbba0f49bbf9f3cd05efb0384352079}
+      \strng{authorfullhash}{8dbba0f49bbf9f3cd05efb0384352079}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0167-6318, 1613-3676}
+      \field{journaltitle}{The Linguistic Review}
+      \field{number}{3-4}
+      \field{shorttitle}{Cliticization as Prosodic Integration}
+      \field{title}{Cliticization as Prosodic Integration: {{The}} Case of {{Dutch}}}
+      \field{volume}{13}
+      \field{year}{1996}
+      \field{pages}{219\bibrangedash 242}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1515/tlir.1996.13.3-4.219
+      \endverb
+      \verb{file}
+      \verb /Users/Hovsep/Zotero/storage/BPXZUSYK/Booij - 1996 - Cliticization as prosodic integration The case of.pdf
+      \endverb
+    \endentry
+    \entry{braun-2013-earlyCaseVOTAdjarian}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f9d7bdca221ca5ee7290cf2da6a9f317}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={Angelika},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ISCA}%
+      }
+      \strng{namehash}{f9d7bdca221ca5ee7290cf2da6a9f317}
+      \strng{fullhash}{f9d7bdca221ca5ee7290cf2da6a9f317}
+      \strng{bibnamehash}{f9d7bdca221ca5ee7290cf2da6a9f317}
+      \strng{authorbibnamehash}{f9d7bdca221ca5ee7290cf2da6a9f317}
+      \strng{authornamehash}{f9d7bdca221ca5ee7290cf2da6a9f317}
+      \strng{authorfullhash}{f9d7bdca221ca5ee7290cf2da6a9f317}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Interspeech 2013}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{An Early Case of ``{{VOT}}''}
+      \field{year}{2013}
+      \field{pages}{119\bibrangedash 122}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.21437/Interspeech.2013-50
+      \endverb
+    \endentry
+    \entry{DeLisi-2018-ArmenianProsodyDiachrony}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5a3bdd4689d41f4ee113fbfe593b9f06}{%
+           family={DeLisi},
+           familyi={D\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a3bdd4689d41f4ee113fbfe593b9f06}
+      \strng{fullhash}{5a3bdd4689d41f4ee113fbfe593b9f06}
+      \strng{bibnamehash}{5a3bdd4689d41f4ee113fbfe593b9f06}
+      \strng{authorbibnamehash}{5a3bdd4689d41f4ee113fbfe593b9f06}
+      \strng{authornamehash}{5a3bdd4689d41f4ee113fbfe593b9f06}
+      \strng{authorfullhash}{5a3bdd4689d41f4ee113fbfe593b9f06}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2210-5824, 2210-5832}
+      \field{journaltitle}{Language Dynamics and Change}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{Armenian Prosody in Typology and Diachrony}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{108\bibrangedash 133}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1163/22105832-00801005
+      \endverb
+    \endentry
+    \entry{DeLisi-2015-EpenthesisProtoArmenian}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=e250f89ffae83b40bcac5fe437e8048b}{%
+           family={DeLisi},
+           familyi={D\bibinitperiod},
+           given={Jessica\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of California, Los Angeles}%
+      }
+      \strng{namehash}{e250f89ffae83b40bcac5fe437e8048b}
+      \strng{fullhash}{e250f89ffae83b40bcac5fe437e8048b}
+      \strng{bibnamehash}{e250f89ffae83b40bcac5fe437e8048b}
+      \strng{authorbibnamehash}{e250f89ffae83b40bcac5fe437e8048b}
+      \strng{authornamehash}{e250f89ffae83b40bcac5fe437e8048b}
+      \strng{authorfullhash}{e250f89ffae83b40bcac5fe437e8048b}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Epenthesis and Prosodic Structure in {{Armenian}}: {{A}} Diachronic Account}
+      \field{type}{phdthesis}
+      \field{year}{2015}
+    \endentry
+    \entry{Dolatian-2022-InterfaceNuclearStressWesternArmenianTurkishPersian}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=46980961df5df19cd7a24c8c391bca76}{%
+           family={Dolatian},
+           familyi={D\bibinitperiod},
+           given={Hossep},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=60a1687a0330add991c06d0304b795dc}{%
+           family={Özçelik},
+           familyi={Ö\bibinitperiod},
+           given={Öner},
+           giveni={Ö\bibinitperiod}}}%
+        {{hash=14a1f96a3461d77483fad8bd808fbcff}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{46980961df5df19cd7a24c8c391bca76}
+      \strng{fullhash}{46980961df5df19cd7a24c8c391bca76}
+      \strng{bibnamehash}{46980961df5df19cd7a24c8c391bca76}
+      \strng{authorbibnamehash}{46980961df5df19cd7a24c8c391bca76}
+      \strng{authornamehash}{46980961df5df19cd7a24c8c391bca76}
+      \strng{authorfullhash}{46980961df5df19cd7a24c8c391bca76}
+      \strng{editorbibnamehash}{e0d43733477c6e7afcc89a7ad042702a}
+      \strng{editornamehash}{e0d43733477c6e7afcc89a7ad042702a}
+      \strng{editorfullhash}{e0d43733477c6e7afcc89a7ad042702a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 4th {{Conference}} on {{Central Asian Languages}} and {{Linguistics}} ({{ConCALL}})}
+      \field{title}{Interface Constraints for Nuclear Stress Assignment under Broad Focus in {{Western Armenian}} vs. {{Turkish}} and {{Persian}}}
+      \field{year}{2022}
+      \field{pages}{59\bibrangedash 80}
+      \range{pages}{22}
+    \endentry
+    \entry{Downing-1999-ProsodicStem}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=511eb59fb0dc0dbf8682455c9988d622}{%
+           family={Downing},
+           familyi={D\bibinitperiod},
+           given={Laura\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=abea677b1fc4959e67e5cdb507b579c3}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={T.\bibnamedelimi Alan},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a812c213be2b389b36b9d720e07faa0a}{%
+           family={Kleinhenz},
+           familyi={K\bibinitperiod},
+           given={Ursula},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Publishing Company}%
+      }
+      \strng{namehash}{511eb59fb0dc0dbf8682455c9988d622}
+      \strng{fullhash}{511eb59fb0dc0dbf8682455c9988d622}
+      \strng{bibnamehash}{511eb59fb0dc0dbf8682455c9988d622}
+      \strng{authorbibnamehash}{511eb59fb0dc0dbf8682455c9988d622}
+      \strng{authornamehash}{511eb59fb0dc0dbf8682455c9988d622}
+      \strng{authorfullhash}{511eb59fb0dc0dbf8682455c9988d622}
+      \strng{editorbibnamehash}{76c5871c5970c86676c396b5c1fec483}
+      \strng{editornamehash}{76c5871c5970c86676c396b5c1fec483}
+      \strng{editorfullhash}{76c5871c5970c86676c396b5c1fec483}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Studies on the {{Phonological Word}}}
+      \field{langid}{english}
+      \field{title}{Prosodic {{Stem}} ≠ {{Prosodic Word}} in {{Bantu}}}
+      \field{volume}{174}
+      \field{year}{1999}
+      \field{pages}{73\bibrangedash 98}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1075/cilt.174.05dow
+      \endverb
+    \endentry
+    \entry{DumTragut-2009-ArmenianReferenceGrammar}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a050f23ef4d9d23ca871e06ed8450bdb}{%
+           family={{Dum-Tragut}},
+           familyi={D\bibinitperiod},
+           given={Jasmine},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Publishing Company}%
+      }
+      \strng{namehash}{a050f23ef4d9d23ca871e06ed8450bdb}
+      \strng{fullhash}{a050f23ef4d9d23ca871e06ed8450bdb}
+      \strng{bibnamehash}{a050f23ef4d9d23ca871e06ed8450bdb}
+      \strng{authorbibnamehash}{a050f23ef4d9d23ca871e06ed8450bdb}
+      \strng{authornamehash}{a050f23ef4d9d23ca871e06ed8450bdb}
+      \strng{authorfullhash}{a050f23ef4d9d23ca871e06ed8450bdb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{series}{London {{Oriental}} and {{African Language Library}}}
+      \field{shorttitle}{Armenian}
+      \field{title}{Armenian: {{Modern Eastern Armenian}}}
+      \field{volume}{14}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1075/loall.14
+      \endverb
+    \endentry
+    \entry{Fairbanks-1948-PhonologyMorphoWestern}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=953559814913a156fba2abf51c411e96}{%
+           family={Fairbanks},
+           familyi={F\bibinitperiod},
+           given={Gordon\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Wisconsin-Madison}%
+      }
+      \strng{namehash}{953559814913a156fba2abf51c411e96}
+      \strng{fullhash}{953559814913a156fba2abf51c411e96}
+      \strng{bibnamehash}{953559814913a156fba2abf51c411e96}
+      \strng{authorbibnamehash}{953559814913a156fba2abf51c411e96}
+      \strng{authornamehash}{953559814913a156fba2abf51c411e96}
+      \strng{authorfullhash}{953559814913a156fba2abf51c411e96}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phonology and Morphology of Modern Spoken {{West Armenian}}}
+      \field{type}{phdthesis}
+      \field{year}{1948}
+    \endentry
+    \entry{Gordon-2002-FactorialTypologyStress}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8b8891db68628ca28c08481da8cf5dc6}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b8891db68628ca28c08481da8cf5dc6}
+      \strng{fullhash}{8b8891db68628ca28c08481da8cf5dc6}
+      \strng{bibnamehash}{8b8891db68628ca28c08481da8cf5dc6}
+      \strng{authorbibnamehash}{8b8891db68628ca28c08481da8cf5dc6}
+      \strng{authornamehash}{8b8891db68628ca28c08481da8cf5dc6}
+      \strng{authorfullhash}{8b8891db68628ca28c08481da8cf5dc6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167806X}
+      \field{journaltitle}{Natural Language and Linguistic Theory}
+      \field{number}{3}
+      \field{title}{A Factorial Typology of Quantity-Insensitive Stress}
+      \field{volume}{20}
+      \field{year}{2002}
+      \field{pages}{491\bibrangedash 552}
+      \range{pages}{62}
+      \verb{doi}
+      \verb 10.1023/A:1015810531699
+      \endverb
+    \endentry
+    \entry{gordon2012sonority}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=8b8891db68628ca28c08481da8cf5dc6}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=04034e9b90a61a1be74d8d7faecc265f}{%
+           family={Ghushchyan},
+           familyi={G\bibinitperiod},
+           given={Edita},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5cb9a4e25cf34341a4d955c890436cdb}{%
+           family={McDonnell},
+           familyi={M\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e59c2bdc913acb066a2d98d4e411d63a}{%
+           family={Rosenblum},
+           familyi={R\bibinitperiod},
+           given={Daisy},
+           giveni={D\bibinitperiod}}}%
+        {{hash=040caf310492e83e842d642a1c6a074a}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Patricia\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=27ed4a736b53ce79d228cc3241651473}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{658328b2c00756dabfa055536f1aa28f}
+      \strng{fullhash}{fae362d43503b41e6d1bcf1feaf6c22d}
+      \strng{bibnamehash}{fae362d43503b41e6d1bcf1feaf6c22d}
+      \strng{authorbibnamehash}{fae362d43503b41e6d1bcf1feaf6c22d}
+      \strng{authornamehash}{658328b2c00756dabfa055536f1aa28f}
+      \strng{authorfullhash}{fae362d43503b41e6d1bcf1feaf6c22d}
+      \strng{editorbibnamehash}{27ed4a736b53ce79d228cc3241651473}
+      \strng{editornamehash}{27ed4a736b53ce79d228cc3241651473}
+      \strng{editorfullhash}{27ed4a736b53ce79d228cc3241651473}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The {{Sonority Controversy}}}
+      \field{isbn}{978-3-11-026151-6}
+      \field{month}{8}
+      \field{shorttitle}{Sonority and Central Vowels}
+      \field{title}{Sonority and Central Vowels: {{A}} Cross-Linguistic Phonetic Study}
+      \field{urlday}{24}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{219\bibrangedash 256}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1515/9783110261523.219
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyter.com/document/doi/10.1515/9783110261523.219/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyter.com/document/doi/10.1515/9783110261523.219/html
+      \endverb
+    \endentry
+    \entry{Haghverdi-2016-ArmenianSchwa}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=da613aef05b0e5797a447a35dda5eafa}{%
+           family={Haghverdi},
+           familyi={H\bibinitperiod},
+           given={Vartan},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rutgers University}%
+      }
+      \strng{namehash}{da613aef05b0e5797a447a35dda5eafa}
+      \strng{fullhash}{da613aef05b0e5797a447a35dda5eafa}
+      \strng{bibnamehash}{da613aef05b0e5797a447a35dda5eafa}
+      \strng{authorbibnamehash}{da613aef05b0e5797a447a35dda5eafa}
+      \strng{authornamehash}{da613aef05b0e5797a447a35dda5eafa}
+      \strng{authorfullhash}{da613aef05b0e5797a447a35dda5eafa}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Armenian Schwa: {{A}} Phonetic and Phonological Analysis}
+      \field{type}{mathesis}
+      \field{year}{2016}
+    \endentry
+    \entry{Hall-2004-FormalApproachEvidenceCzechSlovak}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=72f88c8744e58a9e3f8585be9813ebdf}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima Currie},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=ca95e65cac84507f9dc40878688e10c4}{%
+           family={Arnaudova},
+           familyi={A\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=51e41ab87e8342d16b2919ac512a708f}{%
+           family={Browne},
+           familyi={B\bibinitperiod},
+           given={Wayles},
+           giveni={W\bibinitperiod}}}%
+        {{hash=529d5669121f1097f8849c63de0c5de3}{%
+           family={Rivero},
+           familyi={R\bibinitperiod},
+           given={María\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c35dfb147aeb5db08a17a67f97900a36}{%
+           family={Stojanović},
+           familyi={S\bibinitperiod},
+           given={Danijela},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ann Arbor}%
+      }
+      \list{publisher}{1}{%
+        {Michigan Slavic Publications}%
+      }
+      \strng{namehash}{72f88c8744e58a9e3f8585be9813ebdf}
+      \strng{fullhash}{72f88c8744e58a9e3f8585be9813ebdf}
+      \strng{bibnamehash}{72f88c8744e58a9e3f8585be9813ebdf}
+      \strng{authorbibnamehash}{72f88c8744e58a9e3f8585be9813ebdf}
+      \strng{authornamehash}{72f88c8744e58a9e3f8585be9813ebdf}
+      \strng{authorfullhash}{72f88c8744e58a9e3f8585be9813ebdf}
+      \strng{editorbibnamehash}{b56cd7b9022de6825d39df2f2d4cb71e}
+      \strng{editornamehash}{f6fad138e881594527c02cdcc57e0675}
+      \strng{editorfullhash}{b56cd7b9022de6825d39df2f2d4cb71e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Formal {{Approaches}} to {{Slavic Linguistics}} 12: {{The Ottawa Meeting}}}
+      \field{title}{A Formal Approach to /v/: {{Evidence}} from {{Czech}} and {{Slovak}}}
+      \field{year}{2004}
+      \field{pages}{187\bibrangedash 205}
+      \range{pages}{19}
+    \endentry
+    \entry{Inkelas-1989-ProsodicLexicon}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=fc7750944f2f020b763caaf8f9834d49}{%
+           family={Inkelas},
+           familyi={I\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{fc7750944f2f020b763caaf8f9834d49}
+      \strng{fullhash}{fc7750944f2f020b763caaf8f9834d49}
+      \strng{bibnamehash}{fc7750944f2f020b763caaf8f9834d49}
+      \strng{authorbibnamehash}{fc7750944f2f020b763caaf8f9834d49}
+      \strng{authornamehash}{fc7750944f2f020b763caaf8f9834d49}
+      \strng{authorfullhash}{fc7750944f2f020b763caaf8f9834d49}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prosodic Constituency in the Lexicon}
+      \field{type}{phdthesis}
+      \field{year}{1989}
+    \endentry
+    \entry{Ito-1989-ProsodicEpenthesis}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b0d18e38e00e098d7e723a5ac2d00340}{%
+           family={Itô},
+           familyi={I\bibinitperiod},
+           given={Junko},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0d18e38e00e098d7e723a5ac2d00340}
+      \strng{fullhash}{b0d18e38e00e098d7e723a5ac2d00340}
+      \strng{bibnamehash}{b0d18e38e00e098d7e723a5ac2d00340}
+      \strng{authorbibnamehash}{b0d18e38e00e098d7e723a5ac2d00340}
+      \strng{authornamehash}{b0d18e38e00e098d7e723a5ac2d00340}
+      \strng{authorfullhash}{b0d18e38e00e098d7e723a5ac2d00340}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-806X, 1573-0859}
+      \field{journaltitle}{Natural Language and Linguistic Theory}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{A Prosodic Theory of Epenthesis}
+      \field{volume}{7}
+      \field{year}{1989}
+      \field{pages}{217\bibrangedash 259}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.1007/BF00138077
+      \endverb
+    \endentry
+    \entry{Johnson-1954-EastArmGrammar}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=a4f9b6a6708b00321fcc4f4438f042cb}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Emma\bibnamedelima Wintler},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of California, Berkeley}%
+      }
+      \strng{namehash}{a4f9b6a6708b00321fcc4f4438f042cb}
+      \strng{fullhash}{a4f9b6a6708b00321fcc4f4438f042cb}
+      \strng{bibnamehash}{a4f9b6a6708b00321fcc4f4438f042cb}
+      \strng{authorbibnamehash}{a4f9b6a6708b00321fcc4f4438f042cb}
+      \strng{authornamehash}{a4f9b6a6708b00321fcc4f4438f042cb}
+      \strng{authorfullhash}{a4f9b6a6708b00321fcc4f4438f042cb}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Studies in {{East Armenian}} Grammar}
+      \field{type}{phdthesis}
+      \field{year}{1954}
+    \endentry
+    \entry{jun-2007-prosodicTypologyPhonologyIntonationPhrasing}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ff8f5a6cb27b8f4a0c2ef8e639031060}{%
+           family={Jun},
+           familyi={J\bibinitperiod},
+           given={Sun-Ah},
+           giveni={S\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{fullhash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{bibnamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{authorbibnamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{authornamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{authorfullhash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-19-924963-3}
+      \field{month}{1}
+      \field{title}{Prosodic Typology: {{The}} Phonology of Intonation and Phrasing}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780199249633.001.0001
+      \endverb
+    \endentry
+    \entry{Kahnemuyipour-2003-syntacticCategoriesStress}{article}{}
+      \name{author}{1}{}{%
+        {{hash=04583f821e41e6b8a50f3b250bd06981}{%
+           family={Kahnemuyipour},
+           familyi={K\bibinitperiod},
+           given={Arsalan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{04583f821e41e6b8a50f3b250bd06981}
+      \strng{fullhash}{04583f821e41e6b8a50f3b250bd06981}
+      \strng{bibnamehash}{04583f821e41e6b8a50f3b250bd06981}
+      \strng{authorbibnamehash}{04583f821e41e6b8a50f3b250bd06981}
+      \strng{authornamehash}{04583f821e41e6b8a50f3b250bd06981}
+      \strng{authorfullhash}{04583f821e41e6b8a50f3b250bd06981}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167806X}
+      \field{journaltitle}{Natural Language \& Linguistic Theory}
+      \field{number}{2}
+      \field{title}{Syntactic Categories and {{Persian}} Stress}
+      \field{volume}{21}
+      \field{year}{2003}
+      \field{pages}{333\bibrangedash 379}
+      \range{pages}{47}
+      \verb{doi}
+      \verb 10.1023/A:1023330609827
+      \endverb
+    \endentry
+    \entry{KahnemuyipourMegerdoomian-2011-secondcliticvP}{article}{}
+      \name{author}{2}{}{%
+        {{hash=04583f821e41e6b8a50f3b250bd06981}{%
+           family={Kahnemuyipour},
+           familyi={K\bibinitperiod},
+           given={Arsalan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=809fd835b0b7709e4020a10961e497d4}{%
+           family={Megerdoomian},
+           familyi={M\bibinitperiod},
+           given={Karine},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{2729b0ff9db85311b7763b5efc68e480}
+      \strng{fullhash}{2729b0ff9db85311b7763b5efc68e480}
+      \strng{bibnamehash}{2729b0ff9db85311b7763b5efc68e480}
+      \strng{authorbibnamehash}{2729b0ff9db85311b7763b5efc68e480}
+      \strng{authornamehash}{2729b0ff9db85311b7763b5efc68e480}
+      \strng{authorfullhash}{2729b0ff9db85311b7763b5efc68e480}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0024-3892, 1530-9150}
+      \field{journaltitle}{Linguistic Inquiry}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Second-{{Position Clitics}} in the {{vP Phase}}}
+      \field{title}{Second-Position Clitics in the {{vP}} Phase: {{The}} Case of the {{Armenian}} Auxiliary}
+      \field{volume}{42}
+      \field{year}{2011}
+      \field{pages}{152\bibrangedash 162}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1162/LING_a_00033
+      \endverb
+    \endentry
+    \entry{Kassabian-1971-ContrastStressWesttArmEnglish}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=6fdf391b1959ac6966c2bb425963c4bf}{%
+           family={Kassabian},
+           familyi={K\bibinitperiod},
+           given={Hagop},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department of Education, American University of Beirut}%
+      }
+      \strng{namehash}{6fdf391b1959ac6966c2bb425963c4bf}
+      \strng{fullhash}{6fdf391b1959ac6966c2bb425963c4bf}
+      \strng{bibnamehash}{6fdf391b1959ac6966c2bb425963c4bf}
+      \strng{authorbibnamehash}{6fdf391b1959ac6966c2bb425963c4bf}
+      \strng{authornamehash}{6fdf391b1959ac6966c2bb425963c4bf}
+      \strng{authorfullhash}{6fdf391b1959ac6966c2bb425963c4bf}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Contrastive Analysis of Stress in {{Colloquial West Armenian}} and {{American English}}}
+      \field{type}{mathesis}
+      \field{year}{1971}
+    \endentry
+    \entry{kellyKeshishian-2019-voicingStopsAffricatesArmenianLebanon}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b8860881845c043918383464e2da82fc}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Niamh\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=f3a28f420cdb7a7b5a66a0067928f8a0}{%
+           family={Keshishian},
+           familyi={K\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ISCA}%
+      }
+      \strng{namehash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{fullhash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{bibnamehash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{authorbibnamehash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{authornamehash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{authorfullhash}{1629980f6e626708f58797a8dfc345e5}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Interspeech 2019}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{The Voicing Contrast in Stops and Affricates in the {{Western Armenian}} of {{Lebanon}}}
+      \field{year}{2019}
+      \field{pages}{1721\bibrangedash 1725}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.21437/Interspeech.2019-2529
+      \endverb
+    \endentry
+    \entry{kellyKeshishian-2021-VoicingWesternArmenian}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b8860881845c043918383464e2da82fc}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Niamh\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=f3a28f420cdb7a7b5a66a0067928f8a0}{%
+           family={Keshishian},
+           familyi={K\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{fullhash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{bibnamehash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{authorbibnamehash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{authornamehash}{1629980f6e626708f58797a8dfc345e5}
+      \strng{authorfullhash}{1629980f6e626708f58797a8dfc345e5}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0332-5865, 1502-4717}
+      \field{journaltitle}{Nordic Journal of Linguistics}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Voicing Patterns in Stops among Heritage Speakers of {{Western Armenian}} in {{Lebanon}} and the {{US}}}
+      \field{volume}{44}
+      \field{year}{2021}
+      \field{pages}{103\bibrangedash 129}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1017/S0332586521000093
+      \endverb
+      \verb{file}
+      \verb /Users/Hovsep/Zotero/storage/BQVFNI3J/Kelly and Keshishian - 2021 - Voicing patterns in stops among heritage speakers .pdf
+      \endverb
+    \endentry
+    \entry{Khanjian-2013-DissNegativeConcord}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=03337213de9a1e48b6fcf9a0aaeac15d}{%
+           family={Khanjian},
+           familyi={K\bibinitperiod},
+           given={Hrayr},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \strng{namehash}{03337213de9a1e48b6fcf9a0aaeac15d}
+      \strng{fullhash}{03337213de9a1e48b6fcf9a0aaeac15d}
+      \strng{bibnamehash}{03337213de9a1e48b6fcf9a0aaeac15d}
+      \strng{authorbibnamehash}{03337213de9a1e48b6fcf9a0aaeac15d}
+      \strng{authornamehash}{03337213de9a1e48b6fcf9a0aaeac15d}
+      \strng{authorfullhash}{03337213de9a1e48b6fcf9a0aaeac15d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{({{Negative}}) Concord and Head Directionality in {{Western Armenian}}}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+    \endentry
+    \entry{kouyoumdjian-1970-DictionaryArmenianEnglish}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3e783fbc079e301af5604865e1fb1308}{%
+           family={Kouyoumdjian},
+           familyi={K\bibinitperiod},
+           given={Mesrob\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Beirut}%
+      }
+      \list{publisher}{1}{%
+        {Atlas Press}%
+      }
+      \strng{namehash}{3e783fbc079e301af5604865e1fb1308}
+      \strng{fullhash}{3e783fbc079e301af5604865e1fb1308}
+      \strng{bibnamehash}{3e783fbc079e301af5604865e1fb1308}
+      \strng{authorbibnamehash}{3e783fbc079e301af5604865e1fb1308}
+      \strng{authornamehash}{3e783fbc079e301af5604865e1fb1308}
+      \strng{authorfullhash}{3e783fbc079e301af5604865e1fb1308}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Comprehensive Dictionary, {{Armenian-English}}}
+      \field{year}{1970}
+    \endentry
+    \entry{ladd-2008-intonationalPhonology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5771c25b226504e80cfc1cd3b0bd9e50}{%
+           family={Ladd},
+           familyi={L\bibinitperiod},
+           given={D.\bibnamedelimi Robert},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{fullhash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{bibnamehash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{authorbibnamehash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{authornamehash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{authorfullhash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This second edition presents a completely revised overview of research on intonational phonology since the 1970s, including new material on research developments since the mid 1990s. It contains a new section discussing the research on the alignment of pitch features that has developed since the first edition was published, a substantially rewritten section on ToBI transcription that takes account of the application of ToBI principles to other languages, and new sections on the phonetic research on accent and focus. The substantive chapters on the analysis and transcription of pitch contours, pitch range, sentence stress and prosodic structure have been reorganised and updated. In addition, there is an associated website with sound files of the example sentences discussed in the book. This well-known study will continue to appeal to researchers and graduate students who work on any aspect of intonation.}
+      \field{edition}{Second}
+      \field{isbn}{978-0-521-67836-0 978-0-521-86117-5 978-0-511-80881-4}
+      \field{month}{12}
+      \field{title}{Intonational {{Phonology}}}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1017/CBO9780511808814
+      \endverb
+    \endentry
+    \entry{Minassian-1980-EastArmenianGrammar}{book}{}
+      \name{author}{1}{}{%
+        {{hash=549bff7b6eb8bbe9ee47c5df61c8c8d5}{%
+           family={Minassian},
+           familyi={M\bibinitperiod},
+           given={Martiros},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Delmar, NY}%
+      }
+      \list{publisher}{1}{%
+        {Caravan Books}%
+      }
+      \strng{namehash}{549bff7b6eb8bbe9ee47c5df61c8c8d5}
+      \strng{fullhash}{549bff7b6eb8bbe9ee47c5df61c8c8d5}
+      \strng{bibnamehash}{549bff7b6eb8bbe9ee47c5df61c8c8d5}
+      \strng{authorbibnamehash}{549bff7b6eb8bbe9ee47c5df61c8c8d5}
+      \strng{authornamehash}{549bff7b6eb8bbe9ee47c5df61c8c8d5}
+      \strng{authorfullhash}{549bff7b6eb8bbe9ee47c5df61c8c8d5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grammaire d'arménien Oriental}
+      \field{year}{1980}
+    \endentry
+    \entry{Nakipoglu-2009-SemanticsTurkishAccDefStress}{article}{}
+      \name{author}{1}{}{%
+        {{hash=80947aed320e4aac34aa6f9b36c8a4db}{%
+           family={Nakipoğlu},
+           familyi={N\bibinitperiod},
+           given={Mine},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{80947aed320e4aac34aa6f9b36c8a4db}
+      \strng{fullhash}{80947aed320e4aac34aa6f9b36c8a4db}
+      \strng{bibnamehash}{80947aed320e4aac34aa6f9b36c8a4db}
+      \strng{authorbibnamehash}{80947aed320e4aac34aa6f9b36c8a4db}
+      \strng{authornamehash}{80947aed320e4aac34aa6f9b36c8a4db}
+      \strng{authorfullhash}{80947aed320e4aac34aa6f9b36c8a4db}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00243841}
+      \field{journaltitle}{Lingua}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{The Semantics of the {{Turkish}} Accusative Marked Definites and the Relation between Prosodic Structure and Information Structure}
+      \field{volume}{119}
+      \field{year}{2009}
+      \field{pages}{1253\bibrangedash 1280}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1016/j.lingua.2009.02.006
+      \endverb
+    \endentry
+    \entry{Nespor-Vogel-1986-ProsodicPhon}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9f6b4b6dd4fb670bbdd67eeae63b2eec}{%
+           family={Nespor},
+           familyi={N\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ef14d3eaaf864f76ec04753fac756199}{%
+           family={Vogel},
+           familyi={V\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Foris}%
+      }
+      \strng{namehash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{fullhash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{bibnamehash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{authorbibnamehash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{authornamehash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{authorfullhash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prosodic Phonology}
+      \field{year}{1986}
+    \endentry
+    \entry{Ozccelik-2017-FootObligatoryConstTurkishFrench}{article}{}
+      \name{author}{1}{}{%
+        {{hash=60a1687a0330add991c06d0304b795dc}{%
+           family={Özçelik},
+           familyi={Ö\bibinitperiod},
+           given={Öner},
+           giveni={Ö\bibinitperiod}}}%
+      }
+      \strng{namehash}{60a1687a0330add991c06d0304b795dc}
+      \strng{fullhash}{60a1687a0330add991c06d0304b795dc}
+      \strng{bibnamehash}{60a1687a0330add991c06d0304b795dc}
+      \strng{authorbibnamehash}{60a1687a0330add991c06d0304b795dc}
+      \strng{authornamehash}{60a1687a0330add991c06d0304b795dc}
+      \strng{authorfullhash}{60a1687a0330add991c06d0304b795dc}
+      \field{sortinit}{Ö}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0167-6318, 1613-3676}
+      \field{journaltitle}{The Linguistic Review}
+      \field{month}{5}
+      \field{number}{1}
+      \field{shorttitle}{The {{Foot}} Is Not an Obligatory Constituent of the {{Prosodic Hierarchy}}}
+      \field{title}{The {{Foot}} Is Not an Obligatory Constituent of the {{Prosodic Hierarchy}}: “Stress” in {{Turkish}}, {{French}} and Child {{English}}}
+      \field{volume}{34}
+      \field{year}{2019}
+      \field{pages}{157\bibrangedash 213}
+      \range{pages}{57}
+      \verb{doi}
+      \verb 10.1515/tlr-2016-0008
+      \endverb
+    \endentry
+    \entry{Padgett-2002-RussianVoicingAssimilationFinalDevoicingProblemV}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=33f51ce8850187c3146ae8456d8aeb28}{%
+           family={Padgett},
+           familyi={P\bibinitperiod},
+           given={Jaye},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{33f51ce8850187c3146ae8456d8aeb28}
+      \strng{fullhash}{33f51ce8850187c3146ae8456d8aeb28}
+      \strng{bibnamehash}{33f51ce8850187c3146ae8456d8aeb28}
+      \strng{authorbibnamehash}{33f51ce8850187c3146ae8456d8aeb28}
+      \strng{authornamehash}{33f51ce8850187c3146ae8456d8aeb28}
+      \strng{authorfullhash}{33f51ce8850187c3146ae8456d8aeb28}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unpublished manuscript}
+      \field{title}{Russian Voicing Assimilation, Final Devoicing, and the Problem of [v]}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb http://roa.rutgers.edu/article/view/538
+      \endverb
+      \verb{url}
+      \verb http://roa.rutgers.edu/article/view/538
+      \endverb
+    \endentry
+    \entry{Pater-1999-AustronesianNasalSubstitutionOtherNCEffects}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=8956bbb372f7c99d3c7f77b61a7b44e7}{%
+           family={Pater},
+           familyi={P\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=a394fa4a7d728497c58a38be532543e7}{%
+           family={Kager},
+           familyi={K\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod}}}%
+        {{hash=79fda2872c5055d9862ca05619d5651c}{%
+           family={Hulst},
+           familyi={H\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=e0e662f3177f66f06de5a5c53b4d9d66}{%
+           family={Zonneveld},
+           familyi={Z\bibinitperiod},
+           given={Wim},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{8956bbb372f7c99d3c7f77b61a7b44e7}
+      \strng{fullhash}{8956bbb372f7c99d3c7f77b61a7b44e7}
+      \strng{bibnamehash}{8956bbb372f7c99d3c7f77b61a7b44e7}
+      \strng{authorbibnamehash}{8956bbb372f7c99d3c7f77b61a7b44e7}
+      \strng{authornamehash}{8956bbb372f7c99d3c7f77b61a7b44e7}
+      \strng{authorfullhash}{8956bbb372f7c99d3c7f77b61a7b44e7}
+      \strng{editorbibnamehash}{0b4f5e44d6bdb76dfd6e0c678743c2b0}
+      \strng{editornamehash}{cb1f5b739a210c0d3b39a8aa98b7e686}
+      \strng{editorfullhash}{0b4f5e44d6bdb76dfd6e0c678743c2b0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Prosody-Morphology Interface}}}
+      \field{edition}{First}
+      \field{month}{5}
+      \field{title}{Austronesian Nasal Substitution and Other {{NC}} Effects}
+      \field{year}{1999}
+      \field{pages}{310\bibrangedash 343}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1017/CBO9780511627729.009
+      \endverb
+      \verb{file}
+      \verb /Users/Hovsep/Zotero/storage/YZFR7MMX/Pater - 1999 - Austronesian nasal substitution and other NC ef.pdf
+      \endverb
+    \endentry
+    \entry{Pierrehumbert-1980-phonologyPhoneticsEnglishIntonation}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=b3ac3d942406e8d804aa7bc874ed5aa6}{%
+           family={Pierrehumbert},
+           familyi={P\bibinitperiod},
+           given={Janet\bibnamedelima Breckenridge},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \strng{namehash}{b3ac3d942406e8d804aa7bc874ed5aa6}
+      \strng{fullhash}{b3ac3d942406e8d804aa7bc874ed5aa6}
+      \strng{bibnamehash}{b3ac3d942406e8d804aa7bc874ed5aa6}
+      \strng{authorbibnamehash}{b3ac3d942406e8d804aa7bc874ed5aa6}
+      \strng{authornamehash}{b3ac3d942406e8d804aa7bc874ed5aa6}
+      \strng{authorfullhash}{b3ac3d942406e8d804aa7bc874ed5aa6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Phonology and Phonetics of {{English}} Intonation}
+      \field{type}{phdthesis}
+      \field{year}{1980}
+    \endentry
+    \entry{Rubach-1996-NonsyllabicAnalysisVoiceAssiimlationPolish}{article}{}
+      \name{author}{1}{}{%
+        {{hash=baad03977f14c6879a31d219d8f38a34}{%
+           family={Rubach},
+           familyi={R\bibinitperiod},
+           given={Jerzy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{fullhash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{bibnamehash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{authorbibnamehash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{authornamehash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{authorfullhash}{baad03977f14c6879a31d219d8f38a34}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistic Inquiry}
+      \field{number}{1}
+      \field{title}{Nonsyllabic Analysis of Voice Assimilation in {{Polish}}}
+      \field{volume}{27}
+      \field{year}{1996}
+      \field{pages}{69\bibrangedash 110}
+      \range{pages}{42}
+    \endentry
+    \entry{Rubach-1997-ExtrasyllabicConsonantPolishDerivationalOptimalityTheory}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=baad03977f14c6879a31d219d8f38a34}{%
+           family={Rubach},
+           familyi={R\bibinitperiod},
+           given={Jerzy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5d9ec30ebff3783c639e3367b7b6706f}{%
+           family={Roca},
+           familyi={R\bibinitperiod},
+           given={Iggy},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{fullhash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{bibnamehash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{authorbibnamehash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{authornamehash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{authorfullhash}{baad03977f14c6879a31d219d8f38a34}
+      \strng{editorbibnamehash}{5d9ec30ebff3783c639e3367b7b6706f}
+      \strng{editornamehash}{5d9ec30ebff3783c639e3367b7b6706f}
+      \strng{editorfullhash}{5d9ec30ebff3783c639e3367b7b6706f}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Derivations and {{Constraints}} in {{Phonology}}}
+      \field{title}{Extrasyllabic Consonants in {{Polish}}: {{Derivational}} Optimality Theory}
+      \field{year}{1997}
+      \field{pages}{551\bibrangedash 581}
+      \range{pages}{31}
+    \endentry
+    \entry{RubachBooij-1990-EdgeConstituentEffectPolish}{article}{}
+      \name{author}{2}{}{%
+        {{hash=baad03977f14c6879a31d219d8f38a34}{%
+           family={Rubach},
+           familyi={R\bibinitperiod},
+           given={Jerzy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5bbbcd2343201fb451d6272b6b0e064c}{%
+           family={Booij},
+           familyi={B\bibinitperiod},
+           given={Geert\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{786452aa3af572c7c3dbcad895409f2c}
+      \strng{fullhash}{786452aa3af572c7c3dbcad895409f2c}
+      \strng{bibnamehash}{786452aa3af572c7c3dbcad895409f2c}
+      \strng{authorbibnamehash}{786452aa3af572c7c3dbcad895409f2c}
+      \strng{authornamehash}{786452aa3af572c7c3dbcad895409f2c}
+      \strng{authorfullhash}{786452aa3af572c7c3dbcad895409f2c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-806X, 1573-0859}
+      \field{journaltitle}{Natural Language and Linguistic Theory}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{3}
+      \field{title}{Edge of Constituent Effects in {{Polish}}}
+      \field{volume}{8}
+      \field{year}{1990}
+      \field{pages}{427\bibrangedash 463}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1007/BF00135620
+      \endverb
+      \verb{file}
+      \verb /Users/Hovsep/Zotero/storage/W66KB2CT/Rubach and Booij - 1990 - Edge of constituent effects in Polish.pdf
+      \endverb
+    \endentry
+    \entry{sanjian-1996-armenianAlphabet}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=bebbd4e3d71cf2bac239f55f913f3a8d}{%
+           family={Sanjian},
+           familyi={S\bibinitperiod},
+           given={Avedis\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ab1c39a5b38c6fd487b1055e146cc07e}{%
+           family={Daniels},
+           familyi={D\bibinitperiod},
+           given={Peter\bibnamedelima T.},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=da6f31edf0222e3d0d22780d951ff660}{%
+           family={Bright},
+           familyi={B\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York and Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{bebbd4e3d71cf2bac239f55f913f3a8d}
+      \strng{fullhash}{bebbd4e3d71cf2bac239f55f913f3a8d}
+      \strng{bibnamehash}{bebbd4e3d71cf2bac239f55f913f3a8d}
+      \strng{authorbibnamehash}{bebbd4e3d71cf2bac239f55f913f3a8d}
+      \strng{authornamehash}{bebbd4e3d71cf2bac239f55f913f3a8d}
+      \strng{authorfullhash}{bebbd4e3d71cf2bac239f55f913f3a8d}
+      \strng{editorbibnamehash}{2263d40e51a2d5635a5aca1f6d65e48d}
+      \strng{editornamehash}{2263d40e51a2d5635a5aca1f6d65e48d}
+      \strng{editorfullhash}{2263d40e51a2d5635a5aca1f6d65e48d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{World}}’s {{Writing Systems}}}
+      \field{title}{The {{Armenian}} Alphabet}
+      \field{year}{1996}
+      \field{pages}{356\bibrangedash 363}
+      \range{pages}{8}
+    \endentry
+    \entry{Selkirk-1986-DerivedDomains}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a94d30f07e4679d7fc24e8ef63f30fb4}{%
+           family={Selkirk},
+           familyi={S\bibinitperiod},
+           given={Elisabeth},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{fullhash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{bibnamehash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{authorbibnamehash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{authornamehash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{authorfullhash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0265-8062, 2059-6286}
+      \field{journaltitle}{Phonology Yearbook}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{On Derived Domains in Sentence Phonology}
+      \field{volume}{3}
+      \field{year}{1986}
+      \field{pages}{371\bibrangedash 405}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1017/S0952675700000695
+      \endverb
+    \endentry
+    \entry{Selkirk-1996-ProsodicFunctionWords}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a94d30f07e4679d7fc24e8ef63f30fb4}{%
+           family={Selkirk},
+           familyi={S\bibinitperiod},
+           given={Elisabeth},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4da68f606e229145aeeb449b3fe287ec}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c7d3d069609b12ce9295f869ccb3c026}{%
+           family={Demuth},
+           familyi={D\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Mahwah, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence Erlbaum Associates}%
+      }
+      \strng{namehash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{fullhash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{bibnamehash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{authorbibnamehash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{authornamehash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{authorfullhash}{a94d30f07e4679d7fc24e8ef63f30fb4}
+      \strng{editorbibnamehash}{83c77bacad04f2d1f92a60a1bcdb010f}
+      \strng{editornamehash}{83c77bacad04f2d1f92a60a1bcdb010f}
+      \strng{editorfullhash}{83c77bacad04f2d1f92a60a1bcdb010f}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Signal to Syntax: {{Bootstrapping}} from Speech to Grammar in Early Acquisition}
+      \field{isbn}{978-0-470-75617-1 978-0-631-22688-8}
+      \field{langid}{english}
+      \field{title}{The Prosodic Structure of Function Words}
+      \field{year}{1996}
+      \field{pages}{187\bibrangedash 214}
+      \range{pages}{28}
+      \verb{file}
+      \verb /Users/Hovsep/Zotero/storage/46E7PCEH/Selkirk - 2004 - The Prosodic Structure of Function Words.pdf
+      \endverb
+    \endentry
+    \entry{Seyfarth-JIPAArmenian}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=9dee29b2d619a7f1b2f46c31a60132e3}{%
+           family={Seyfarth},
+           familyi={S\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=46980961df5df19cd7a24c8c391bca76}{%
+           family={Dolatian},
+           familyi={D\bibinitperiod},
+           given={Hossep},
+           giveni={H\bibinitperiod}}}%
+        {{hash=dc4db4d3290012869192602e3d71f39a}{%
+           family={Guekguezian},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3237a0e286ec970c1cceecd23161c5ae}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Niamh},
+           giveni={N\bibinitperiod}}}%
+        {{hash=97640e7fa7c0e3428656999e1df79bfc}{%
+           family={Toparlak},
+           familyi={T\bibinitperiod},
+           given={Tabita},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d694f74da02981ee75dce7b9b539140}
+      \strng{fullhash}{f4defcd7bd130274a067821bb8c846f3}
+      \strng{bibnamehash}{f4defcd7bd130274a067821bb8c846f3}
+      \strng{authorbibnamehash}{f4defcd7bd130274a067821bb8c846f3}
+      \strng{authornamehash}{1d694f74da02981ee75dce7b9b539140}
+      \strng{authorfullhash}{f4defcd7bd130274a067821bb8c846f3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unpublished manuscript}
+      \field{title}{Armenian ({{Yerevan Eastern}} and {{Beirut Western}} Varieties)}
+      \field{year}{review}
+    \endentry
+    \entry{langsci-current-book}{book}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{author}{1}{}{%
+        {{hash=2edb99fdddf663477200cba58b335966}{%
+           family={Sigler},
+           familyi={S\bibinitperiod},
+           given={Hossep\bibnamedelima Dolatian\\Michele},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{2edb99fdddf663477200cba58b335966}
+      \strng{fullhash}{2edb99fdddf663477200cba58b335966}
+      \strng{bibnamehash}{2edb99fdddf663477200cba58b335966}
+      \strng{authorbibnamehash}{2edb99fdddf663477200cba58b335966}
+      \strng{authornamehash}{2edb99fdddf663477200cba58b335966}
+      \strng{authorfullhash}{2edb99fdddf663477200cba58b335966}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Comprehensive Grammar Library}
+      \field{title}{{Grammar of Western Armenian}}
+      \field{year}{2022}
+    \endentry
+    \entry{Tahtadjian-2021-PhoneticInterferenceProductionStopsWesternArmenianBilingual}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=9110a5bfa23e3472df657f6858bc6864}{%
+           family={Tahtadjian},
+           familyi={T\bibinitperiod},
+           given={Talia\bibnamedelima Lisa},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Toronto}%
+      }
+      \strng{namehash}{9110a5bfa23e3472df657f6858bc6864}
+      \strng{fullhash}{9110a5bfa23e3472df657f6858bc6864}
+      \strng{bibnamehash}{9110a5bfa23e3472df657f6858bc6864}
+      \strng{authorbibnamehash}{9110a5bfa23e3472df657f6858bc6864}
+      \strng{authornamehash}{9110a5bfa23e3472df657f6858bc6864}
+      \strng{authorfullhash}{9110a5bfa23e3472df657f6858bc6864}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phonetic Interference in the Production of Stops by {{Western Armenian}} Bilinguals}
+      \field{type}{mathesis}
+      \field{year}{2021}
+    \endentry
+    \entry{Toparlak-2019-MAArmenianPhonetics}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=97640e7fa7c0e3428656999e1df79bfc}{%
+           family={Toparlak},
+           familyi={T\bibinitperiod},
+           given={Tabita},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Paris 3 - Sorbonne Nouvelle}%
+      }
+      \strng{namehash}{97640e7fa7c0e3428656999e1df79bfc}
+      \strng{fullhash}{97640e7fa7c0e3428656999e1df79bfc}
+      \strng{bibnamehash}{97640e7fa7c0e3428656999e1df79bfc}
+      \strng{authorbibnamehash}{97640e7fa7c0e3428656999e1df79bfc}
+      \strng{authornamehash}{97640e7fa7c0e3428656999e1df79bfc}
+      \strng{authorfullhash}{97640e7fa7c0e3428656999e1df79bfc}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Etudes Phonétiques En Arménien}
+      \field{type}{mathesis}
+      \field{year}{2019}
+    \endentry
+    \entry{ToparlakDolatian-202x-IntonationFocusMarkingWesternArmenian}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=97640e7fa7c0e3428656999e1df79bfc}{%
+           family={Toparlak},
+           familyi={T\bibinitperiod},
+           given={Tabita},
+           giveni={T\bibinitperiod}}}%
+        {{hash=46980961df5df19cd7a24c8c391bca76}{%
+           family={Dolatian},
+           familyi={D\bibinitperiod},
+           given={Hossep},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=60a1687a0330add991c06d0304b795dc}{%
+           family={Özçelik},
+           familyi={Ö\bibinitperiod},
+           given={Öner},
+           giveni={Ö\bibinitperiod}}}%
+        {{hash=14a1f96a3461d77483fad8bd808fbcff}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ea13854de975e12aa616e7077faafc4}
+      \strng{fullhash}{4ea13854de975e12aa616e7077faafc4}
+      \strng{bibnamehash}{4ea13854de975e12aa616e7077faafc4}
+      \strng{authorbibnamehash}{4ea13854de975e12aa616e7077faafc4}
+      \strng{authornamehash}{4ea13854de975e12aa616e7077faafc4}
+      \strng{authorfullhash}{4ea13854de975e12aa616e7077faafc4}
+      \strng{editorbibnamehash}{e0d43733477c6e7afcc89a7ad042702a}
+      \strng{editornamehash}{e0d43733477c6e7afcc89a7ad042702a}
+      \strng{editorfullhash}{e0d43733477c6e7afcc89a7ad042702a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 4th {{Conference}} on {{Central Asian Languages}} and {{Linguistics}} ({{ConCALL}})}
+      \field{title}{Intonation and Focus Marking in {{Western Armenian}}}
+      \field{year}{2022}
+      \field{pages}{81\bibrangedash 94}
+      \range{pages}{14}
+    \endentry
+    \entry{Vaux-1998-ArmenianPhono}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f131ee3866e823cfbe360b3f6630ee9f}{%
+           family={Vaux},
+           familyi={V\bibinitperiod},
+           given={Bert},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{f131ee3866e823cfbe360b3f6630ee9f}
+      \strng{fullhash}{f131ee3866e823cfbe360b3f6630ee9f}
+      \strng{bibnamehash}{f131ee3866e823cfbe360b3f6630ee9f}
+      \strng{authorbibnamehash}{f131ee3866e823cfbe360b3f6630ee9f}
+      \strng{authornamehash}{f131ee3866e823cfbe360b3f6630ee9f}
+      \strng{authorfullhash}{f131ee3866e823cfbe360b3f6630ee9f}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Phonology of {{Armenian}}}
+      \field{year}{1998}
+    \endentry
+    \entry{VauxWolf-2009-Appendix}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=f131ee3866e823cfbe360b3f6630ee9f}{%
+           family={Vaux},
+           familyi={V\bibinitperiod},
+           given={Bert},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d5eefe60d6a619ad8d5011ce9b03eb96}{%
+           family={Wolfe},
+           familyi={W\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=043c7bc867696ad3ae12c58d28e1cec5}{%
+           family={Raimy},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3455c3d05ef87d61f007acea6df255d4}{%
+           family={Cairns},
+           familyi={C\bibinitperiod},
+           given={Charles\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{30e6ab55233aa949a196c8fedf9685c6}
+      \strng{fullhash}{30e6ab55233aa949a196c8fedf9685c6}
+      \strng{bibnamehash}{30e6ab55233aa949a196c8fedf9685c6}
+      \strng{authorbibnamehash}{30e6ab55233aa949a196c8fedf9685c6}
+      \strng{authornamehash}{30e6ab55233aa949a196c8fedf9685c6}
+      \strng{authorfullhash}{30e6ab55233aa949a196c8fedf9685c6}
+      \strng{editorbibnamehash}{b5adf666ddb188d3200b50682f9e8e4e}
+      \strng{editornamehash}{b5adf666ddb188d3200b50682f9e8e4e}
+      \strng{editorfullhash}{b5adf666ddb188d3200b50682f9e8e4e}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Contemporary {{Views}} on {{Architecture}} and {{Representations}} in {{Phonology}}}
+      \field{isbn}{978-0-262-18270-6}
+      \field{month}{3}
+      \field{title}{The Appendix}
+      \field{year}{2009}
+      \field{pages}{101\bibrangedash 143}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.7551/mitpress/9780262182706.003.0005
+      \endverb
+    \endentry
+    \entry{Vennemann-1972-RuleInversion}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3fc6e9ba37c6a8359837c3992090a46f}{%
+           family={Vennemann},
+           familyi={V\bibinitperiod},
+           given={Theo},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{3fc6e9ba37c6a8359837c3992090a46f}
+      \strng{fullhash}{3fc6e9ba37c6a8359837c3992090a46f}
+      \strng{bibnamehash}{3fc6e9ba37c6a8359837c3992090a46f}
+      \strng{authorbibnamehash}{3fc6e9ba37c6a8359837c3992090a46f}
+      \strng{authornamehash}{3fc6e9ba37c6a8359837c3992090a46f}
+      \strng{authorfullhash}{3fc6e9ba37c6a8359837c3992090a46f}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00243841}
+      \field{journaltitle}{Lingua}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{3-4}
+      \field{title}{Rule Inversion}
+      \field{volume}{29}
+      \field{year}{1972}
+      \field{pages}{209\bibrangedash 242}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1016/0024-3841(72)90025-3
+      \endverb
+    \endentry
+    \entry{Vogel-2009-StatusCliticGroup}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ef14d3eaaf864f76ec04753fac756199}{%
+           family={Vogel},
+           familyi={V\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=cd318be7e5c1d85b2d144aacc4818b7a}{%
+           family={Grijzenhout},
+           familyi={G\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9a619522edf31fbd6600d3e2c5a9272c}{%
+           family={Kabak},
+           familyi={K\bibinitperiod},
+           given={Baris},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, New York}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{ef14d3eaaf864f76ec04753fac756199}
+      \strng{fullhash}{ef14d3eaaf864f76ec04753fac756199}
+      \strng{bibnamehash}{ef14d3eaaf864f76ec04753fac756199}
+      \strng{authorbibnamehash}{ef14d3eaaf864f76ec04753fac756199}
+      \strng{authornamehash}{ef14d3eaaf864f76ec04753fac756199}
+      \strng{authorfullhash}{ef14d3eaaf864f76ec04753fac756199}
+      \strng{editorbibnamehash}{be1e2975be9482302a848b29e230d04b}
+      \strng{editornamehash}{be1e2975be9482302a848b29e230d04b}
+      \strng{editorfullhash}{be1e2975be9482302a848b29e230d04b}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Phonological Domains: {{Universals}} and Deviations}
+      \field{isbn}{978-3-11-020540-4 978-3-11-021923-4}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{The Status of the {{Clitic Group}}}
+      \field{volume}{16}
+      \field{year}{2009}
+      \field{pages}{15\bibrangedash 46}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1515/9783110219234.1.15
+      \endverb
+    \endentry
+    \entry{Abeghyan-1933-Meter}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ed93adcd09abb36c71ffcbb2d274b7c8}{%
+           family={\zzzzzzzz{Աբեղյան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Մանուկ}},
+           giveni={Մ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Հայկական ՍՍՀ Գիտությունների Ակադեմիա Հրատարակչություն}}%
+      }
+      \strng{namehash}{ed93adcd09abb36c71ffcbb2d274b7c8}
+      \strng{fullhash}{ed93adcd09abb36c71ffcbb2d274b7c8}
+      \strng{bibnamehash}{ed93adcd09abb36c71ffcbb2d274b7c8}
+      \strng{authorbibnamehash}{ed93adcd09abb36c71ffcbb2d274b7c8}
+      \strng{authornamehash}{ed93adcd09abb36c71ffcbb2d274b7c8}
+      \strng{authorfullhash}{ed93adcd09abb36c71ffcbb2d274b7c8}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Հայոց Լեզվի Տաղաչափություն: Մետրիկա} [{{Metrics}} of the {{Armenian}} Language]}
+      \field{year}{1933}
+    \endentry
+    \entry{Adjarian-1902-TUrkishWordsArmenian}{book}{}
+      \name{author}{1}{}{%
+        {{hash=89d4459ca7570ddd1437229224be671a}{%
+           family={\zzzzzzzz{Աճառեան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Հրաչեայ}},
+           giveni={Հ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Մոսկուա-Վաղարշապատ}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Լազարեան Ճեմարան Արեւելեան Լեզուաց}}%
+      }
+      \strng{namehash}{89d4459ca7570ddd1437229224be671a}
+      \strng{fullhash}{89d4459ca7570ddd1437229224be671a}
+      \strng{bibnamehash}{89d4459ca7570ddd1437229224be671a}
+      \strng{authorbibnamehash}{89d4459ca7570ddd1437229224be671a}
+      \strng{authornamehash}{89d4459ca7570ddd1437229224be671a}
+      \strng{authorfullhash}{89d4459ca7570ddd1437229224be671a}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{3}
+      \field{series}{\zzzzzzzz{Էմինեան Ազգագրական Ժողովածու}}
+      \field{title}{\zzzzzzzz{Թուրքերէնէ Փոխառեալ Բառերը} {{\zzzzzzzz{Պօլսի}}} \zzzzzzzz{Հայ Ժողովրդական Լեզուին Մէջ Համեմատութեամբ} {{\zzzzzzzz{Վանի}}}, {{\zzzzzzzz{Ղարաբաղի}}} \zzzzzzzz{Եւ} {{\zzzzzzzz{Նոր-Նախիջեւանի}}} \zzzzzzzz{Բարբառներուն}\vphantom\{\} [{{Turkish}} Loanwords in the Colloquial Language of {{Istanbul Armenians}}, in Comparison with the Dialects of {{Van}}, {{Karabagh}}, and {{New Nakhichevan}}]}
+      \field{year}{1902}
+    \endentry
+    \entry{Adjarian-1971-LiakatarPhono}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5fa029e4134521ad3eb73db5a3759a1e}{%
+           family={\zzzzzzzz{Աճառյան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Հրաչյա}},
+           giveni={Հ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Հայկական ՍՍՀ Գիտությունների Ակադեմիա Հրատարակչություն}}%
+      }
+      \strng{namehash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{fullhash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{bibnamehash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{authorbibnamehash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{authornamehash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{authorfullhash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \field{extraname}{1}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Լիակատար Քերականություն} {{\zzzzzzzz{Հայոց}}} \zzzzzzzz{Լեզվի} [{{Complete}} Grammar of the {{Armenian}} Language]}
+      \field{volume}{6}
+      \field{year}{1971}
+    \endentry
+    \entry{Adjarian-1979-Etymology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5fa029e4134521ad3eb73db5a3759a1e}{%
+           family={\zzzzzzzz{Աճառյան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Հրաչյա}},
+           giveni={Հ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Երեվանի Համալսարանի Հրատարչություն}}%
+      }
+      \strng{namehash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{fullhash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{bibnamehash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{authorbibnamehash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{authornamehash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \strng{authorfullhash}{5fa029e4134521ad3eb73db5a3759a1e}
+      \field{extraname}{2}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Հայերէն Արմատական Բառարան} [{{Armenian}} Etymological Dictionary]}
+      \field{year}{1971}
+    \endentry
+    \entry{Asatryan-1976-EasternVoicedPlosivePronunciation}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b3e710658e2e0a6fd02cbcd513298c8e}{%
+           family={\zzzzzzzz{Ասատրյան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Մանվել}},
+           giveni={Մ\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3e710658e2e0a6fd02cbcd513298c8e}
+      \strng{fullhash}{b3e710658e2e0a6fd02cbcd513298c8e}
+      \strng{bibnamehash}{b3e710658e2e0a6fd02cbcd513298c8e}
+      \strng{authorbibnamehash}{b3e710658e2e0a6fd02cbcd513298c8e}
+      \strng{authornamehash}{b3e710658e2e0a6fd02cbcd513298c8e}
+      \strng{authorfullhash}{b3e710658e2e0a6fd02cbcd513298c8e}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\zzzzzzzz{Բանբեր Երևանի Համալսարանի}}
+      \field{number}{2}
+      \field{title}{\zzzzzzzz{Արևելահայ Գրական Լեզվի Ձայնեղ Պայթական Բաղաձայների Արտասանությունը} [{{Pronunciation}} of Voiced Plosives in the Literary {{Eastern Armenian}} Language]}
+      \field{volume}{29}
+      \field{year}{1976}
+      \field{pages}{32\bibrangedash 47}
+      \range{pages}{16}
+    \endentry
+    \entry{Avetisyan-2005-PronunciationChangesArmenianOrthoepy}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4f8a63e94df494e3f46c868b4e0d5778}{%
+           family={\zzzzzzzz{Ավետիսյան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Յուրի}},
+           giveni={Յ\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f8a63e94df494e3f46c868b4e0d5778}
+      \strng{fullhash}{4f8a63e94df494e3f46c868b4e0d5778}
+      \strng{bibnamehash}{4f8a63e94df494e3f46c868b4e0d5778}
+      \strng{authorbibnamehash}{4f8a63e94df494e3f46c868b4e0d5778}
+      \strng{authornamehash}{4f8a63e94df494e3f46c868b4e0d5778}
+      \strng{authorfullhash}{4f8a63e94df494e3f46c868b4e0d5778}
+      \field{extraname}{1}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\zzzzzzzz{Բանբեր Երևանի Համալսարանի}}
+      \field{number}{2}
+      \field{title}{\zzzzzzzz{Արտասանական Տեղաշարժեր Ժամանակակից Հայերենի Ուղղախոսության Մեջ} [{{Pronunciation}} Shifts in Modern {{Armenian}} Orthoepy]}
+      \field{volume}{116}
+      \field{year}{2005}
+      \field{pages}{93\bibrangedash 104}
+      \range{pages}{12}
+    \endentry
+    \entry{Avetisyan-2007-ComparativeGrammar}{book}{}
+      \name{author}{1}{}{%
+        {{hash=adb08c378fea6bcedcf6026b761629e6}{%
+           family={\zzzzzzzz{Ավետիսյան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Յուրի\bibnamedelimb Սրապիոնի}},
+           giveni={Յ\bibinitperiod\bibinitdelim Ս\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Երևանի Պետական Համալսարանի Հրատարակչություն}}%
+      }
+      \strng{namehash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{fullhash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{bibnamehash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{authorbibnamehash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{authornamehash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{authorfullhash}{adb08c378fea6bcedcf6026b761629e6}
+      \field{extraname}{2}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Արևելահայերենի և Արևմտահայերենի Զուգադրական Քերականություն} [{{Comparative}} Grammar of {{Eastern}} and {{Western Armenian}}]}
+      \field{year}{2007}
+    \endentry
+    \entry{Avetisyan-2011-ComparativePhonoEastWest}{book}{}
+      \name{author}{1}{}{%
+        {{hash=adb08c378fea6bcedcf6026b761629e6}{%
+           family={\zzzzzzzz{Ավետիսյան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Յուրի\bibnamedelimb Սրապիոնի}},
+           giveni={Յ\bibinitperiod\bibinitdelim Ս\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Հայաստանի սփյուռքի նախարարություն}}%
+      }
+      \strng{namehash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{fullhash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{bibnamehash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{authorbibnamehash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{authornamehash}{adb08c378fea6bcedcf6026b761629e6}
+      \strng{authorfullhash}{adb08c378fea6bcedcf6026b761629e6}
+      \field{extraname}{3}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Արևելահայերենի և Արևմտահայերենի Զուգադրական Հնչյունաբանություն} [{{Comparative}} Phonology of {{Eastern}} and {{Western Armenian}}]}
+      \field{year}{2011}
+    \endentry
+    \entry{Avetyan-2015-WesternRoundVowel}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1b0d5f12569dd7bc0fd9bcbca747d7ff}{%
+           family={\zzzzzzzz{Ավետյան}},
+           familyi={Ա\bibinitperiod},
+           given={\zzzzzzzz{Սարգիս}},
+           giveni={Ս\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2da8a7ae2649b238b50e72d78e7db8aa}{%
+           family={\zzzzzzzz{Կատվալյան}},
+           familyi={Կ\bibinitperiod},
+           given={\zzzzzzzz{Վ.\bibnamedelimi Լ}.},
+           giveni={Վ\bibinitperiod\bibinitdelim Լ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{ՀՀ ԳԱԱ Հրաչյա Աճառյանի անվան լեզվի ինստիտուտ}}%
+      }
+      \strng{namehash}{1b0d5f12569dd7bc0fd9bcbca747d7ff}
+      \strng{fullhash}{1b0d5f12569dd7bc0fd9bcbca747d7ff}
+      \strng{bibnamehash}{1b0d5f12569dd7bc0fd9bcbca747d7ff}
+      \strng{authorbibnamehash}{1b0d5f12569dd7bc0fd9bcbca747d7ff}
+      \strng{authornamehash}{1b0d5f12569dd7bc0fd9bcbca747d7ff}
+      \strng{authorfullhash}{1b0d5f12569dd7bc0fd9bcbca747d7ff}
+      \strng{editorbibnamehash}{2da8a7ae2649b238b50e72d78e7db8aa}
+      \strng{editornamehash}{2da8a7ae2649b238b50e72d78e7db8aa}
+      \strng{editorfullhash}{2da8a7ae2649b238b50e72d78e7db8aa}
+      \field{sortinit}{Ա}
+      \field{sortinithash}{5529a0adb249e50e3bd256e2e33f9ea3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{\zzzzzzzz{Հայերենագիտական Միջազգային Տասներորդ Գիտաժողովի Զեկուցումների Ժողովածու}}
+      \field{title}{\zzzzzzzz{Գրական Արեվմտահայերենում Հին Հայերենի Իւ Երկբարբառի Արտացոլման Հարցի Շուրջ} [{{On}} the Question of the Manifestation of the {{Old Armenian}} Diphthong \zzzzzzzz{Իւ} in Literary {{Western Armenian}}]}
+      \field{year}{2015}
+      \field{pages}{17\bibrangedash 26}
+      \range{pages}{10}
+    \endentry
+    \entry{Ezekyan-2007-Armenian}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7d3e55bb8cc548a989e9ed0bbaa9f92e}{%
+           family={\zzzzzzzz{Եզեկյան}},
+           familyi={Ե\bibinitperiod},
+           given={\zzzzzzzz{Լևոն}},
+           giveni={Լ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Երևանի Պետական Համալսարանի Հրատարակչություն}}%
+      }
+      \strng{namehash}{7d3e55bb8cc548a989e9ed0bbaa9f92e}
+      \strng{fullhash}{7d3e55bb8cc548a989e9ed0bbaa9f92e}
+      \strng{bibnamehash}{7d3e55bb8cc548a989e9ed0bbaa9f92e}
+      \strng{authorbibnamehash}{7d3e55bb8cc548a989e9ed0bbaa9f92e}
+      \strng{authornamehash}{7d3e55bb8cc548a989e9ed0bbaa9f92e}
+      \strng{authorfullhash}{7d3e55bb8cc548a989e9ed0bbaa9f92e}
+      \field{sortinit}{Ե}
+      \field{sortinithash}{ce52af2c470d0f7a01a1eac304c40151}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Հայոց Լեզու} [{{Armenian}} Language]}
+      \field{year}{2007}
+    \endentry
+    \entry{Tokhmakhyan-1971-ArmenianWordStress}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3730805bb351cb896546c50f63fe83e5}{%
+           family={\zzzzzzzz{Թոխմախյան}},
+           familyi={Թ\bibinitperiod},
+           given={\zzzzzzzz{Ռոբերտ\bibnamedelimb Մարկոսի}},
+           giveni={Ռ\bibinitperiod\bibinitdelim Մ\bibinitperiod}}}%
+      }
+      \strng{namehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{fullhash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{bibnamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authorbibnamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authornamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authorfullhash}{3730805bb351cb896546c50f63fe83e5}
+      \field{extraname}{1}
+      \field{sortinit}{Թ}
+      \field{sortinithash}{7be2305837600cb3a104d2ca6eb36cf1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\zzzzzzzz{Լրաբեր Հասարակական Գիտությունների}}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայերենի Բառային Շեշտը} [{{Modern Armenian}} Word Stress]}
+      \field{volume}{2}
+      \field{year}{1971}
+      \field{pages}{60\bibrangedash 64}
+      \range{pages}{5}
+    \endentry
+    \entry{Tokhmakhyan-1975-StressEssence}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3730805bb351cb896546c50f63fe83e5}{%
+           family={\zzzzzzzz{Թոխմախյան}},
+           familyi={Թ\bibinitperiod},
+           given={\zzzzzzzz{Ռոբերտ\bibnamedelimb Մարկոսի}},
+           giveni={Ռ\bibinitperiod\bibinitdelim Մ\bibinitperiod}}}%
+      }
+      \strng{namehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{fullhash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{bibnamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authorbibnamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authornamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authorfullhash}{3730805bb351cb896546c50f63fe83e5}
+      \field{extraname}{2}
+      \field{sortinit}{Թ}
+      \field{sortinithash}{7be2305837600cb3a104d2ca6eb36cf1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\zzzzzzzz{Լեզվի և ոճի հարցեր}}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայերենի Բառային Շեշտի Բնույթը} [{{The}} Essence of Word Stress of Contemporary {{Armenian}}]}
+      \field{volume}{3}
+      \field{year}{1975}
+      \field{pages}{123\bibrangedash 207}
+      \range{pages}{85}
+    \endentry
+    \entry{Tokhmakhyan-1983-ArmenianPhono}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3730805bb351cb896546c50f63fe83e5}{%
+           family={\zzzzzzzz{Թոխմախյան}},
+           familyi={Թ\bibinitperiod},
+           given={\zzzzzzzz{Ռոբերտ\bibnamedelimb Մարկոսի}},
+           giveni={Ռ\bibinitperiod\bibinitdelim Մ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Հայկական ՍՍՀ Գիտությունների Ակադեմիա Հրատարակչություն}}%
+      }
+      \strng{namehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{fullhash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{bibnamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authorbibnamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authornamehash}{3730805bb351cb896546c50f63fe83e5}
+      \strng{authorfullhash}{3730805bb351cb896546c50f63fe83e5}
+      \field{extraname}{3}
+      \field{sortinit}{Թ}
+      \field{sortinithash}{7be2305837600cb3a104d2ca6eb36cf1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայերենի Շեշտաբանությունը} [{{The}} Accentology of Contemporary {{Armenian}}]}
+      \field{year}{1983}
+    \endentry
+    \entry{Khachatryan-1988-ArmenianPhono}{book}{}
+      \name{author}{1}{}{%
+        {{hash=212627619e7a25b58a203f455f406365}{%
+           family={\zzzzzzzz{Խաչատրյան}},
+           familyi={Խ\bibinitperiod},
+           given={\zzzzzzzz{Ամալյա}},
+           giveni={Ա\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Հայկական ՍՍՀ Գիտությունների Ակադեմիա Հրատարակչություն}}%
+      }
+      \strng{namehash}{212627619e7a25b58a203f455f406365}
+      \strng{fullhash}{212627619e7a25b58a203f455f406365}
+      \strng{bibnamehash}{212627619e7a25b58a203f455f406365}
+      \strng{authorbibnamehash}{212627619e7a25b58a203f455f406365}
+      \strng{authornamehash}{212627619e7a25b58a203f455f406365}
+      \strng{authorfullhash}{212627619e7a25b58a203f455f406365}
+      \field{sortinit}{Խ}
+      \field{sortinithash}{7887385f73f1d072c90bada4b7847373}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայերենի Հնչույթաբանություն} [{{Phonetics}} of Contemporary {{Armenian}}]}
+      \field{year}{1988}
+    \endentry
+    \entry{Hovhannisyan-2014-ArmenianSyllable}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6d899ac95cb5a8667e6352978399409e}{%
+           family={\zzzzzzzz{Հովհաննիսյան}},
+           familyi={Հ\bibinitperiod},
+           given={\zzzzzzzz{Հասմիկ\bibnamedelimb Ռազմիկի}},
+           giveni={Հ\bibinitperiod\bibinitdelim Ռ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Երևանի Պետական Համալսարանի Հրատարակչություն}}%
+      }
+      \strng{namehash}{6d899ac95cb5a8667e6352978399409e}
+      \strng{fullhash}{6d899ac95cb5a8667e6352978399409e}
+      \strng{bibnamehash}{6d899ac95cb5a8667e6352978399409e}
+      \strng{authorbibnamehash}{6d899ac95cb5a8667e6352978399409e}
+      \strng{authornamehash}{6d899ac95cb5a8667e6352978399409e}
+      \strng{authorfullhash}{6d899ac95cb5a8667e6352978399409e}
+      \field{sortinit}{Հ}
+      \field{sortinithash}{7995a000457749dabd2e970f440a88ee}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Վանկի Դերը Հայերենի Հնչույթաբանության Մեջ} [{{The}} Role of the Syllable in {{Armenian}} Phonetics]}
+      \field{year}{2014}
+    \endentry
+    \entry{Gharagulyan-1974-BookArmenianOrthoepy}{book}{}
+      \name{author}{1}{}{%
+        {{hash=55685e65db65b1b4652f8485a0447705}{%
+           family={\zzzzzzzz{Ղարագյուլյան}},
+           familyi={Ղ\bibinitperiod},
+           given={\zzzzzzzz{Թերեզա}},
+           giveni={Թ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երեւան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Հայկական ՍՍՀ Գիտությունների Ակադեմիա Հրատարակչություն}}%
+      }
+      \strng{namehash}{55685e65db65b1b4652f8485a0447705}
+      \strng{fullhash}{55685e65db65b1b4652f8485a0447705}
+      \strng{bibnamehash}{55685e65db65b1b4652f8485a0447705}
+      \strng{authorbibnamehash}{55685e65db65b1b4652f8485a0447705}
+      \strng{authornamehash}{55685e65db65b1b4652f8485a0447705}
+      \strng{authorfullhash}{55685e65db65b1b4652f8485a0447705}
+      \field{sortinit}{Ղ}
+      \field{sortinithash}{c2f748201813bd0c35e35f02b336147a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայերենի Ուղղախոսությունը} [{{Modern Armenian}} Orthoepy]}
+      \field{year}{1974}
+    \endentry
+    \entry{Margaryan-1993-ArmenianLexicology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3b0c73b14f23358052718fd6a2b877d0}{%
+           family={\zzzzzzzz{Մարգարյան}},
+           familyi={Մ\bibinitperiod},
+           given={\zzzzzzzz{Ալեքսանդր}},
+           giveni={Ա\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Երևանի Համալսարանի Հրատարակչություն}}%
+      }
+      \strng{namehash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{fullhash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{bibnamehash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{authorbibnamehash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{authornamehash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{authorfullhash}{3b0c73b14f23358052718fd6a2b877d0}
+      \field{extraname}{1}
+      \field{sortinit}{Մ}
+      \field{sortinithash}{bed32095150997f0b9781733b64e055c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայոց Լեզու}. {{\zzzzzzzz{Բառագիտություն}}} [{{Contemporary Armenian}} Language: {{Lexicology}}]}
+      \field{year}{1993}
+    \endentry
+    \entry{Margaryan-1997-ArmenianPhonology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3b0c73b14f23358052718fd6a2b877d0}{%
+           family={\zzzzzzzz{Մարգարյան}},
+           familyi={Մ\bibinitperiod},
+           given={\zzzzzzzz{Ալեքսանդր}},
+           giveni={Ա\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Երեւանի Պետական Համալսարանի Հրատարակչություն}}%
+      }
+      \strng{namehash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{fullhash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{bibnamehash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{authorbibnamehash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{authornamehash}{3b0c73b14f23358052718fd6a2b877d0}
+      \strng{authorfullhash}{3b0c73b14f23358052718fd6a2b877d0}
+      \field{extraname}{2}
+      \field{sortinit}{Մ}
+      \field{sortinithash}{bed32095150997f0b9781733b64e055c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայոց Լեզու}. {{\zzzzzzzz{Հնչյունաբանություն}}} [{{Contemporary Armenian}} Language: {{Phonology}}]}
+      \field{year}{1997}
+    \endentry
+    \entry{Sevak-2009-Coursebook}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e4a5195806ccf64e950a5aad2d48dec3}{%
+           family={\zzzzzzzz{Սևակ}},
+           familyi={Ս\bibinitperiod},
+           given={\zzzzzzzz{Գուրգեն}},
+           giveni={Գ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{ԵՊՀ Հրատարակչություն}}%
+      }
+      \strng{namehash}{e4a5195806ccf64e950a5aad2d48dec3}
+      \strng{fullhash}{e4a5195806ccf64e950a5aad2d48dec3}
+      \strng{bibnamehash}{e4a5195806ccf64e950a5aad2d48dec3}
+      \strng{authorbibnamehash}{e4a5195806ccf64e950a5aad2d48dec3}
+      \strng{authornamehash}{e4a5195806ccf64e950a5aad2d48dec3}
+      \strng{authorfullhash}{e4a5195806ccf64e950a5aad2d48dec3}
+      \field{sortinit}{Ս}
+      \field{sortinithash}{0470630c541a11f808b39a5e57ba7abf}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայոց Լեզվի Դասընթաց} [{{Course}} in {{Modern Armenian}}]}
+      \field{year}{2009}
+    \endentry
+    \entry{Soukyasyan-2004-ArmenianPhonology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dc1da720dc4d037b76c5defdb777ac1d}{%
+           family={\zzzzzzzz{Սուքիասյան}},
+           familyi={Ս\bibinitperiod},
+           given={\zzzzzzzz{Աշոտ\bibnamedelimb Մուրադի}},
+           giveni={Ա\bibinitperiod\bibinitdelim Մ\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {\zzzzzzzz{Երևան}}%
+      }
+      \list{publisher}{1}{%
+        {\zzzzzzzz{Երևանի Պետական Համալսարանի Հրատարակչություն}}%
+      }
+      \strng{namehash}{dc1da720dc4d037b76c5defdb777ac1d}
+      \strng{fullhash}{dc1da720dc4d037b76c5defdb777ac1d}
+      \strng{bibnamehash}{dc1da720dc4d037b76c5defdb777ac1d}
+      \strng{authorbibnamehash}{dc1da720dc4d037b76c5defdb777ac1d}
+      \strng{authornamehash}{dc1da720dc4d037b76c5defdb777ac1d}
+      \strng{authorfullhash}{dc1da720dc4d037b76c5defdb777ac1d}
+      \field{sortinit}{Ս}
+      \field{sortinithash}{0470630c541a11f808b39a5e57ba7abf}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{\zzzzzzzz{Ժամանակակից Հայոց Լեզու (Հնչյունաբանություն}, \zzzzzzzz{Բառագիտություն}, \zzzzzzzz{Բառակազմություն}\vphantom\{\} [{{Modern Armenian}} Phonology, Lexicology, and Word-Formation]}
+      \field{year}{2004}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
